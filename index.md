@@ -1,4 +1,1 @@
-## Welcome 
-
-### Test heading
-
+## Welcome
